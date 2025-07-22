@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- 🎓 Estudante Full-Stack [ C#, .NET, Angular, MySQL, 
+- 🎓 Estudante Full-Stack [ C#, .NET, Angular, MySQL]
 - 💻 Atualmente focado em desenvolvimento backend com **C#** e **.NET**
 - 🌱 Estudando APIs RESTful, Clean Code e práticas recomendadas
 - 🚀 Interessado em boas práticas, arquitetura de software e metodologias ágeis
