@@ -24,7 +24,7 @@
 
 <a href="https://github.com/cauetrainotti">
   <img height="221em" width=49% " src="https://github-readme-stats.vercel.app/api?username=cauetrainotti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="222em" width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauetrainotti&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="222em" width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauetrainotti&layout=compact&langs_count=8&theme=tokyonight&cache_buster=1"/>
 </a>
 
 ##
