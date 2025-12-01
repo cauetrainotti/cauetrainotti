@@ -23,7 +23,7 @@
 ##
 
 <a href="https://github.com/cauetrainotti">
-  <img height="222em" width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauetrainotti&layout=compact&langs_count=8&theme=tokyonight&cache_buster=1"/>
+  <img height="222em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauetrainotti&layout=compact&langs_count=8&theme=tokyonight&cache_buster=1"/>
 </a>
 
 ##
